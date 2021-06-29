@@ -1,5 +1,3 @@
-# machine-learning
-
 
 <img src="./Images/ML.jpg" alt="TP" align='left'  width="80" height="80"><br/>
 **Machine Learning - Exoplanet Classification and Prediction Model**
